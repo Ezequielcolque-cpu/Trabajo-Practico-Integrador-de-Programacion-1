@@ -2,9 +2,8 @@
 # Gestión de Datos de Países en Python
 
 ## Autor
-Rodrigo Leonel Contreras  
-Programación 1 — Tecnicatura Universitaria en Programación a Distancia  
-Octubre 2025
+Rodrigo Leonel Contreras
+Ezequiel Colque
 
 ## Descripción
 Aplicación de consola desarrollada en *Python 3.x* que gestiona información sobre países.  
