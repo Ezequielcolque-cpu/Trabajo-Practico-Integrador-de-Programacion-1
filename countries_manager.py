@@ -2,8 +2,7 @@
 """
 countries_manager.py
 Trabajo Práctico Integrador - Programación 1
-Autor: Rodrigo Leonel Contreras
-Fecha: October 30, 2025
+Autor: Rodrigo Leonel Contreras, Ezequiel colque
 
 Aplicación por consola para gestionar datos de países:
 - Leer/escribir CSV
